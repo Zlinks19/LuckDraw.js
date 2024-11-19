@@ -13,6 +13,6 @@ myLuckDraw = new LuckDraw(this.prizeList, 3, 15);
 
 myLuckDraw.run(index，runing, runend) 
 
-index = 中奖下标
-runind 运行时回调
-runend 运行结束回调
+index = 中奖下标 
+runind 运行时回调 
+runend 运行结束回调 
