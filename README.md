@@ -9,10 +9,9 @@ LuckDraw.js
 
 // 使用示例
 
-myLuckDraw = new LuckDraw(this.prizeList, 3, 15);
+myLuckDraw = new LuckDraw(this.prizeList, 3, 15); 
 
-
-myLuckDraw.run(index，runing, runend)
+myLuckDraw.run(index，runing, runend) 
 
 index = 中奖下标
 runind 运行时回调
